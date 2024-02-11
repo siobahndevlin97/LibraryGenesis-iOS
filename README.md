@@ -1,5 +1,7 @@
 # LibraryGenesis
 
+This version of the project is being rewritten in SwiftUI. 
+
 This application is showing books from [Library Genesis](https://libgen.is).
 
 If you found this project useful leave a star ⭐️ 
